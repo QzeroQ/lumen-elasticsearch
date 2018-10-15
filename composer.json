@@ -2,6 +2,7 @@
     "name": "zzq/lumen-elasticsearch",
     "description": "lumen-elasticsearch",
     "keywords": [
+        "lumen",
         "laravel",
         "elasticsearch",
         "search",
